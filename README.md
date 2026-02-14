@@ -19,4 +19,7 @@ learnt :
   </b>
 
   ### Kubernetes objects
+    -- Pods
+    -- Replica Sets
+    -- Deployment
      
