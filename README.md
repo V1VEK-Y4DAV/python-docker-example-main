@@ -13,8 +13,8 @@ learnt :
   6. how to hide security and variables to put it on build and push workflow of<br> containerization.
   7. how to find access tokens in docker hub
   <b>
-  8. learnt about docker compose -> for multi-image container
-  9. wrote a compose.yml file.
+  8. learnt about docker compose -> for multi-image container<br>
+  9. wrote a compose.yml file.<br>
   10. saw few services like server and database and build it using<br> command -> docker compose up --build
   </b>
      
